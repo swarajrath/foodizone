@@ -1,25 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useContext } from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
+import ThemeContext from "./context/ThemeContext/ThemeContext";
+import FoodProvider from "./context/FoodContext/FoodProvider";
+import Page from "./containers/Page/Page";
+import Recipes from "./containers/Recipes/Recipes";
+import PageNotFound from "./components/PageNotFound/PageNotFound";
+
+import "./tailwind.generated.css";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+    const context = useContext(ThemeContext);
+
+    return (
+        <div
+            className={[
+                `theme-${context.theme}`,
+                "container main bg-background-secondary",
+            ].join(" ")}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+            <Router>
+                <FoodProvider>
+                    <Switch>
+                        <Route path="/" exact component={Page} />
+                        <Route path="/food/:id" component={Recipes} />
+                        <Route component={PageNotFound} />
+                    </Switch>
+                </FoodProvider>
+            </Router>
+        </div>
+    );
 }
 
 export default App;
