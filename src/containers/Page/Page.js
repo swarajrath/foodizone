@@ -6,7 +6,7 @@ import Cards from "../Cards/Cards";
 import NavBar from "../../components/NavBar/NavBar";
 import Hero from "../../components/Hero/Hero";
 import Footer from "../../components/Footer/Footer";
-
+ 
 const Page = () => {
     return (
         <Fragment>
