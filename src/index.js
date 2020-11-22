@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './tailwind.generated.css';
+//import './tailwind.generated.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import ThemeProvider from "./context/ThemeContext/ThemeProvider";

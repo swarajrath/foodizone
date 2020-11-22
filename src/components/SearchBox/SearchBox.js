@@ -70,7 +70,7 @@ class SearchBox extends Component {
                         placeholder="Let's see what you eat!"
                         value={this.state.val}
                         onChange={(e) => this.textChangeHandler(e)}
-                        helperText="Whatever that makes your jaw drop!"
+                        helperText="Whatever that makes your mouth watering!"
                         fullWidth
                         margin="normal"
                         InputLabelProps={{
