@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+<br />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://swarajrath-foodizone.netlify.app//">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZoOPyNScJZ1Rz4Xt5013v0xssseSKHeOuA&usqp=CAU" alt="Foodies Logo">
+  </a>
 
-## Available Scripts
+  <h3 align="center">To eat or not to eat, is the question. 🍕</h3>
 
-In the project directory, you can run:
+# Foodies — Delicious Recipes App
 
-### `npm start`
+No more waiting to get the right choice of recipe and spending lots of time searching Youtube on the right video to show how to make it.
+It's all here now.
+**Foodies** is the home of more than _thousands_ of recipes that are listed on basis of various regions and categories, which
+you can take advantage of to find THE one you're looking for, almost instantaneously. Give this a ⭐ if you liked!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![Cover Page of Foodies](https://i.imgur.com/RTfPTxW.png)](https://swarajrath-foodizone.netlify.app/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The power of your favourite recipes, now with jaw-dropping UI and themes that you just can't stop looking at. All at the cost of nothing.
 
-### `npm test`
+Visit [Foodies](https://swarajrath-foodizone.netlify.app//), today!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![Recipe List of Ingredients](https://i.imgur.com/fhLL56V.png)](https://swarajrath-foodizone.netlify.app/)
 
-### `npm run build`
+## 🏭 Contribute
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This is one of my side projects which I made to learn the following:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React (Fundamentals)
+- Context API (For state management)
+- Tailwind CSS (An utility first CSS Framework)
+- Material UI (A set of pre-made react components)
+- And many little _reacty_ things...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+So, if you're into any of those or want to go into in future, **this project is dedicated to you.** Give this a ⭐ if you liked!
 
-### `npm run eject`
+[![Grid showing search results](https://i.imgur.com/5UTaVlZ.png)](https://swarajrath-foodizone.netlify.app/)
+[![Embeded video from Youtube](https://i.imgur.com/FzD8d70.png)](hhttps://swarajrath-foodizone.netlify.app/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🎉 Getting Started
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Make sure you fork it, to make your copy of the repo.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+`git clone https://github.com/swarajrath/foodizone.git`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Now it's damn easy.
 
-## Learn More
+**Install the dependencies (using `npm` or `yarn`**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Using `npm`: `npm install`
+- Using `yarn`: `yarn`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Starting project locally**
 
-### Code Splitting
+`npm run start` or `yarn start`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Extra information**
 
-### Analyzing the Bundle Size
+- You can run `start` command just to run the react project and see how it works.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🌈 Thanks a thousand
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+And of course, this couldn't have been possible without the great _free to use_ API called, **MealDB**. You can give that a look on [here](https://www.themealdb.com/api.php).
+Their service has been amazing throughout and you can use their API to create your own projects too!
