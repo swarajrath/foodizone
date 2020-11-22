@@ -2,23 +2,23 @@
 
 <p align="center">
   <a href="https://swarajrath-foodizone.netlify.app//">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZoOPyNScJZ1Rz4Xt5013v0xssseSKHeOuA&usqp=CAU" alt="Foodies Logo">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZoOPyNScJZ1Rz4Xt5013v0xssseSKHeOuA&usqp=CAU" alt="Foodizone Logo">
   </a>
 
   <h3 align="center">To eat or not to eat, is the question. 🍕</h3>
 
-# Foodies — Delicious Recipes App
+# Foodizone — Delicious Recipes App
 
 No more waiting to get the right choice of recipe and spending lots of time searching Youtube on the right video to show how to make it.
 It's all here now.
-**Foodies** is the home of more than _thousands_ of recipes that are listed on basis of various regions and categories, which
+**Foodizone** is the home of more than _thousands_ of recipes that are listed on basis of various regions and categories, which
 you can take advantage of to find THE one you're looking for, almost instantaneously. Give this a ⭐ if you liked!
 
-[![Cover Page of Foodies](https://i.imgur.com/RTfPTxW.png)](https://swarajrath-foodizone.netlify.app/)
+[![Cover Page of Foodizone](https://i.imgur.com/RTfPTxW.png)](https://swarajrath-foodizone.netlify.app/)
 
 The power of your favourite recipes, now with jaw-dropping UI and themes that you just can't stop looking at. All at the cost of nothing.
 
-Visit [Foodies](https://swarajrath-foodizone.netlify.app//), today!
+Visit [Foodizone](https://swarajrath-foodizone.netlify.app//), today!
 
 [![Recipe List of Ingredients](https://i.imgur.com/fhLL56V.png)](https://swarajrath-foodizone.netlify.app/)
 
