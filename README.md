@@ -18,7 +18,7 @@ you can take advantage of to find THE one you're looking for, almost instantaneo
 
 The power of your favourite recipes, now with jaw-dropping UI and themes that you just can't stop looking at. All at the cost of nothing.
 
-Visit [Foodizone](https://swarajrath-foodizone.netlify.app//), today!
+Visit [Foodizone](https://swarajrath-foodizone.netlify.app/), today!
 
 [![Recipe List of Ingredients](https://i.imgur.com/fhLL56V.png)](https://swarajrath-foodizone.netlify.app/)
 
